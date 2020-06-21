@@ -19,13 +19,15 @@ I work at the junction of computer science, physics and biology. I am excited ab
 ---
 #### Quantification of sheet nacre morphogenesis using X-ray nanotomography and deep learning
 <img src="media/nacre3.png" height="150"><img src="media/nacre.gif" width="200">
-https://doi.org/10.1016/j.jsb.2019.107432
+
+[link](https://doi.org/10.1016/j.jsb.2019.107432)
 
 Filtered tomograms using Deep Learning algorithm, performed 3D visualizations, statistical analysis of morphology and fitting to physical laws.
 
 #### Dynamics of Topological Defects and Structural Synchronization in a Forming Nacre
 
 <img src="media/disloc1.png" height="150"><img src="media/disloc2.gif" height="150">
+
 *in review as of June, 2020*
 
 Segmented layers from raw data using combination of deep learning, filters and morphological operations. Segmented topological defects in 3D using Modo and Blender. Modeled and simulated their behaviour starting from experimental intial conditions using complex system model.
@@ -34,39 +36,48 @@ Segmented layers from raw data using combination of deep learning, filters and m
 ---
 #### Tomography, 3D visualization and 3D analysis
 Used FIB-SEM and EDX to analyze chemcal composition of the interface between tissue of mollusk and its shell.
+
 <img src="media/vesicles1.png" height="150"><img src="media/vesicles2.png" height="150"><img src="media/vesicles3.png" height="150"><img src="media/vesicles4.png" height="150">
 
 Used FIB-SEM to acquire a tomogram of diatom. Used naive biase ML-technique to segment it. Visualized in 3D using Blender.
+
 <img src="media/diatom1.png" height="150"><img src="media/diatom2.png" height="150">
 
 Wrote a script to analyze X-ray data of spicules of sponges. The script automatically computes a number of spikes using clustering algorithm and visualizes each step to monitor its performance.
+
 <img src="media/spicules.gif" width="200">
 
 Currently work on segmentation and tracking of topological defects in cuticules of spiders and crabs.
 
 #### 3D analysis
 Modeled motion and bending of pili in N. gonorrhea bacteria. Scripted 3Ds Max to visualize results of simulation.
+
 <img src="media/gonor.gif" width="200"><img src="media/gonor3.gif" height="150">
 <img src="media/gonor2.jpeg" height="150">
 
 #### Interactive data exploration and simulations
 Used Unity platform to create VR-compatible data exploration enviroment. Modified FPScontroller allows to explore data in fly mode. Scales/density can be modified with a slider. Data can be rotated using keybindings.
+
 <img src="media/unity.gif" width="200">
 
 Used D3.js, Observable...
+
 <img src="media/observable1.png" width="200"><img src="media/observable2.png" width="200">
 
 ...and Three.js...
+
 <img src="media/observable3.png" width="200">
 
 ...for various interactive plots and simulations.
 
 #### Image analysis
 Scripted ImageJ for many image processing and analysis tasks, such as automatic blob detection.
+
 <img src="media/imagej.png" width="400">
 
 #### Reinforcement Learning
 Explored OpenAI binding to Unity through ml-agents toolkit. Used Q-Learnhing reinforcement learning algorithm written in Tensorflow to teach pendulum to balance and half-cheetah to run.
+
 <img src="media/RL.gif" width="200">
 
 ### Small things
