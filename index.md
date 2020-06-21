@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Portfolio
+layout: index
+title: Maksim Beliaev
 ---
 
 ## Maksim Beliaev
@@ -13,7 +13,7 @@ title: Portfolio
 
 I work at the junction of computer science, physics and biology. I am excited about transforming complex real world processes into interactive and easy to understand simulations. I care a lot about conveying information in an accessible to wide audience way.
 
-CV : [CV](docs/resume_cv.pdf)
+[CV](docs/resume_cv.pdf)
 
 ### Publications
 ---
